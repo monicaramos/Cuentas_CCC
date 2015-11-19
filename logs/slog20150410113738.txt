@@ -1,0 +1,11 @@
+BD|Tabla|IBAN|Banco|Sucursal|DC|Cuenta|IBAN Calculado|DC Calculado|
+arigasol4|ssocio|ES28|3082|0724|**|0710000000|ES50|34|
+arigasol4|ssocio|ES37|3082|0724|**|0710016813|ES32|36|
+arigasol4|ssocio|ES48|3082|1315|81|3191931918|ES29|86|
+arigasol4|ssocio|ES90|3082|0724|00|0331000024|ES11|31|
+arigasol4|ssocio|ES84|3188|0008|**|9200004234|ES72|13|
+arigasol4|ssocio|ES57|3088|0008|19|1345137911|ES23|79|
+arigasol4|ssocio|ES11|3082|1345|81|3192033516|ES83|11|
+arigasol4|ssocio|ES37|3188|0008|**|9200112653|ES17|10|
+arigasol4|ssocio|ES48|0030|5240|22|0000214272|ES29|27|
+Fin del proceso de la tabla arigasol4.ssocio

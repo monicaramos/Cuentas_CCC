@@ -1,0 +1,6 @@
+BD|Tabla|IBAN|Banco|Sucursal|DC|Cuenta|IBAN Calculado|DC Calculado|
+arigasol9|starje|ES66|3082|1314||3196863116|ES22|32|
+arigasol9|starje|ES19|3082|1326||3193427816|ES16|11|
+arigasol9|starje|ES02|3082|0752||0700001109|ES11|64|
+arigasol9|starje|ES49|3082|0752||0710007074|ES31|66|
+Fin del proceso de la tabla arigasol9.starje

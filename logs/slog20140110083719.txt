@@ -1,0 +1,4 @@
+BD|Tabla|IBAN|Banco|Sucursal|DC|Cuenta|IBAN Calculado|DC Calculado|
+ariges1|sprove|0|3008|0146|00|1773618622|ES29|73|
+ariges1|sprove|0|0075|0080|00|0601636824|ES62|10|
+Fin del proceso de la tabla ariges1.sprove

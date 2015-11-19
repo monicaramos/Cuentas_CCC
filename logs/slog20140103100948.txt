@@ -1,0 +1,6 @@
+BD|Tabla|IBAN|Banco|Sucursal|DC|Cuenta|IBAN Calculado|DC Calculado|
+arigasol9|ssocio|ES66|3082|1314||3196863116|ES22|32|
+arigasol9|ssocio|ES19|3082|1326||3193427816|ES16|11|
+arigasol9|ssocio|ES02|3082|0752||0700001109|ES11|64|
+arigasol9|ssocio|ES49|3082|0752||0710007074|ES31|66|
+Fin del proceso de la tabla arigasol9.ssocio

@@ -1,0 +1,2 @@
+BD|Tabla|IBAN|Banco|Sucursal|DC|Cuenta|IBAN Calculado|DC Calculado|
+Fin del proceso de la tabla conta1.cuentas
